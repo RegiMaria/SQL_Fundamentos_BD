@@ -18,7 +18,7 @@ Objetivo:
 - DER : Diagrama Entidade - Relacionamento
 - MER - Modelo Entidade - Relacionamento
 
-['Modelo_entidade_relacionamento'](MER.png)
+<img src="MER.png" alt="Modelo Entidade-Relacionamento">
 
 
 Ferramentas:
@@ -29,4 +29,4 @@ Ferramentas:
 
 [MySQL](https://www.mysql.com/): Como SGDB
 
-<code><img width="150" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code> <code><img width="100" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+<code><img width="150" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>   <code><img width="100" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
